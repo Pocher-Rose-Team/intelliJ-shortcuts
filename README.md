@@ -11,17 +11,17 @@
 
 ### Refactoring
 
-Shift + F6 -> Variable umbenennen<br>
-Ctrl + Shift + P -> Variable als Parameter in der umgebenden Funktion oder Methode verwenden<br>
-Ctrl + Shift + F -> Variable als Feld in der umgebenden Klasse benutzen<br>
-Ctrl + Shift + C -> Ausdruck als Konstante speichern<br>
-Ctrl + Shift + V -> Ausdruck in einer Variable speichern<br>
-Ctrl + Shift + M -> Ausdruck in eine Funktion auslagern<br>
+<kbd>Shift + F6</kbd> -> Variable umbenennen<br>
+<kbd>Ctrl + Shift + P</kbd> -> Variable als Parameter in der umgebenden Funktion oder Methode verwenden<br>
+<kbd>Ctrl + Shift + F</kbd> -> Variable als Feld in der umgebenden Klasse benutzen<br>
+<kbd>Ctrl + Shift + C</kbd> -> Ausdruck als Konstante speichern<br>
+<kbd>Ctrl + Shift + V</kbd> -> Ausdruck in einer Variable speichern<br>
+<kbd>Ctrl + Shift + M</kbd> -> Ausdruck in eine Funktion auslagern<br>
 
 
 ### Debugging
 
-Alt + F8 -> Öffnet ein dediziertes Fenster in dem Code ausgeführt und der Rückgabewert analysiert werden kann
+<kbd>Alt + F8</kbd> -> Öffnet ein dediziertes Fenster in dem Code ausgeführt und der Rückgabewert analysiert werden kann
 
 ### This and That
 
