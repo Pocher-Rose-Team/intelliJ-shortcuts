@@ -4,10 +4,10 @@
 <kbd>Alt + Shift + J</kbd> -> Momentane Instanz nicht mehr Markieren (Geht eigentlich nur nach <kbd>Alt + J</kbd> und ist Quasi in <kbd>Ctrl + Z</kbd>)<br>
 <kbd>Alt + Shift + Ctrl + J</kbd> -> Alle Instanzen des Markierten Textes im momentanen File Markieren<br>
 
-Strg + W -> Einen Scope weiter Markieren (Wenn der Cursor in einem Wort ist, wird das Wort markiert, nochmal drücken, dann wird das nächste umgebende Wort markiert etc. Wenn man unendlich oft drückt, markiert man irgendwann das gesamte File)<br>
-Strg + Shift + W -> Einen Scope kleiner markieren (Quasi das Ctrl + Z für Ctrl + W)<br>
+<kbd>Strg + W</kbd> -> Einen Scope weiter Markieren (Wenn der Cursor in einem Wort ist, wird das Wort markiert, nochmal drücken, dann wird das nächste umgebende Wort markiert etc. Wenn man unendlich oft drückt, markiert man irgendwann das gesamte File)<br>
+<kbd>Strg + Shift + W</kbd> -> Einen Scope kleiner markieren (Quasi das <kbd>Ctrl + Z</kbd> für <kbd>Ctrl + W</kbd>)<br>
 
-Strg + Shift + Alt -> Gedrückt halten und mit doppelclick mehrere "Wörter" markieren. Besonders toll, wenn man schnell mehrere Wörter bzw. Variablen ersetzen möchte und gerade nicht Alt + J benutzen kann / will<br>
+<kbd>Strg + Shift + Alt</kbd> -> Gedrückt halten und mit doppelclick mehrere "Wörter" markieren. Besonders toll, wenn man schnell mehrere Wörter bzw. Variablen ersetzen möchte und gerade nicht <kbd>Alt + J</kbd> benutzen kann / will<br>
 
 ### Refactoring
 
