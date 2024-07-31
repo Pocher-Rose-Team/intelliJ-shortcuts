@@ -1,8 +1,8 @@
 ### Text markieren
 
 <kbd>Alt + J</kbd> -> Nächste Instanz des Markierten Textes mit Markieren <br>
-<kbd>Alt + Shift + J</kbd> -> Momentane Instanz nicht mehr Markieren (Geht eigentlich nur nach Alt + J und ist Quasi in Ctrl + Z)<br>
-Alt + Shift + Ctrl + J -> Alle Instanzen des Markierten Textes im momentanen File Markieren<br>
+<kbd>Alt + Shift + J</kbd> -> Momentane Instanz nicht mehr Markieren (Geht eigentlich nur nach <kbd>Alt + J</kbd> und ist Quasi in <kbd>Ctrl + Z</kbd>)<br>
+<kbd>Alt + Shift + Ctrl + J</kbd> -> Alle Instanzen des Markierten Textes im momentanen File Markieren<br>
 
 Strg + W -> Einen Scope weiter Markieren (Wenn der Cursor in einem Wort ist, wird das Wort markiert, nochmal drücken, dann wird das nächste umgebende Wort markiert etc. Wenn man unendlich oft drückt, markiert man irgendwann das gesamte File)<br>
 Strg + Shift + W -> Einen Scope kleiner markieren (Quasi das Ctrl + Z für Ctrl + W)<br>
