@@ -9,6 +9,11 @@
 
 <kbd>Strg + Shift + Alt</kbd> -> Gedrückt halten und mit doppelclick mehrere "Wörter" markieren. Besonders toll, wenn man schnell mehrere Wörter bzw. Variablen ersetzen möchte und gerade nicht <kbd>Alt + J</kbd> benutzen kann / will<br>
 
+### Navigation
+
+`Strg + E` -> Zeigt die zuletzt aufgerufenen Dateien <br>
+`Strg + Shift + E` -> Zeigt die zuletzt aufgerufenen Codestellen (ist editierbar)
+
 ### Refactoring
 
 <kbd>Shift + F6</kbd> -> Variable umbenennen<br>
